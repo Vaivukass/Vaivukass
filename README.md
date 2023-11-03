@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋 I'm Vaiva
 
-<!--
-**Vaivukass/Vaivukass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Background: Spent 10 years leading video game communication campaigns before transitioning to cloud and a more technical role.
 
-Here are some ideas to get you started:
+🚀 Currently Technical Product Manager at Cloudvisor, specializing in leveraging AWS to accelerate startup growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Analytics Journey: Graduated from a Data Analytics program with [Career Foundry[(https://careerfoundry.com/). The course equipped me with a comprehensive skill set, encompassing statistics, data preparation, visualization, coding in Python and SQL, machine learning, and more.
+
+🔧 Tools & Technologies: Excel, Word, PowerPoint, Jira, Confluence, Trello, GitHub, Tableau, SQL, Python.
+
+🔗 Portfolio: Find examples of my work and projects [here](https://gamma.app/docs/Data-Analytics-Portfolio-vubto8x3469rc7g).
+
+Let's connect and create innovative solutions together! 😊
